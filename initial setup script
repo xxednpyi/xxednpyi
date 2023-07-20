@@ -1,4 +1,0 @@
-#!/bin/bash
-# Usage: curl https://raw.githubusercontent.com/xxednpyi/xxednpyi/main/initial%20setup%20script | bash
-apt update -y && apt full-upgrade -y && apt autoremove -y && apt clean -y && apt autoclean -y
-echo "Hello World blablajlablakbl"
